@@ -23,7 +23,7 @@ This is a Java-based project for visualizing a Binary Search Tree (BST) using Sw
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Kamal-Rathore/BST-Visualizer.git
+    git clone https://github.com/Kamal-Rathore/BST_visualizer.git
     cd BST_visualizer
     ```
 
